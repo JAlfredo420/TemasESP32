@@ -2,10 +2,10 @@
 Trabajos ESP32
 ## 💡Datasheet
 ![screen](ESP32GIT/datashe.png)
-1. [Código 1] (https://github.com/JAlfredo420/TemasESP32/blob/426665693af721d404ebfcd5a59d8706531082ae/ESP32GIT/Codigos/BT1.ino)
+1. [Código 1](https://github.com/JAlfredo420/TemasESP32/blob/426665693af721d404ebfcd5a59d8706531082ae/ESP32GIT/Codigos/BT1.ino)
 * * Este código permite que los datos enviados desde un puerto serie (por ejemplo, desde un monitor serial en una computadora) se transmitan a través de Bluetooth a otro dispositivo, y viceversa. De esta manera, puedes interactuar con un dispositivo Bluetooth como si fuera un puerto serie tradicional.
 
-2. [Código 2:](https://github.com/JAlfredo420/TemasESP32/blob/426665693af721d404ebfcd5a59d8706531082ae/ESP32GIT/Codigos/BT2.ino)
+2. [Código 2](https://github.com/JAlfredo420/TemasESP32/blob/426665693af721d404ebfcd5a59d8706531082ae/ESP32GIT/Codigos/BT2.ino)
 *  Este código permite controlar un LED conectado al ESP32 a través de Bluetooth. Utiliza el puerto serie Bluetooth para recibir comandos (1 o 0) y encender o apagar el LED en el pin 2. Cuando recibe un "1" (en formato ASCII), enciende el LED, y cuando recibe un "0", lo apaga. Además, envía mensajes de confirmación al dispositivo Bluetooth.
 
 3. [Código 3](https://github.com/JAlfredo420/TemasESP32/blob/426665693af721d404ebfcd5a59d8706531082ae/ESP32GIT/Codigos/BT3.ino)
